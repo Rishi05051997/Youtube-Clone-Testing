@@ -1,0 +1,16 @@
+.playlist-card {
+    background-color: var(--background-color-light) !important;
+    border-radius: 1rem;
+    box-shadow: 1px 1px 7px -1px var(--primary-text-color) !important;
+}
+
+.half-colored {
+    height: 50%;
+    filter: contrast(0.5);
+}
+
+.icon-section {
+    position: absolute;
+    top: 40%;
+    left: 46%;
+}

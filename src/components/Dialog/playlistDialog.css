@@ -1,0 +1,16 @@
+.modal-content {
+    z-index: 30;
+    position: absolute;
+    top: 45%;
+    left: 40%;
+    border-radius: 1rem;
+    background-color:var(--background-color-light);
+}
+
+.playlist-btn {
+    width: 100%;
+    background-color: var(--primary-light-color);
+    border-radius: 1rem;
+    border: none;
+    color: var(--primary-text-color);
+}

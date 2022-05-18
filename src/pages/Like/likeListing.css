@@ -1,0 +1,13 @@
+.like-content{
+    margin: 12rem 0 0 0;
+}
+
+.remove-icon {
+    position: absolute;
+    top:0;
+    right:0;
+}
+
+.no-content {
+    margin: 15rem 0 0 0;
+}

@@ -1,0 +1,35 @@
+/* flex utilities */
+.d-flex {
+    display: flex;
+}
+.flex-col {
+  flex-direction: column;
+}
+.flex-wrap {
+  flex-wrap: wrap;
+}
+.justify-center {
+  justify-content: center;
+}
+.justify-between {
+  justify-content: space-between;
+}
+
+.justify-start {
+  justify-content: flex-start;
+}
+.items-center {
+  align-items: center;
+}
+
+.display-none {
+  display: none;
+}
+
+.space-between {
+  align-content: space-between;
+}
+
+.pos-relative{
+  position: relative;
+}

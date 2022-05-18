@@ -1,0 +1,10 @@
+.no-content-img {
+    height: 50rem;
+    animation:1s infinite,move_forward 8s linear infinite;	
+}
+
+@keyframes move_forward
+	{
+		0%{transform:translateY(0px);}
+		100%{transform:translateY(100px);}
+	}

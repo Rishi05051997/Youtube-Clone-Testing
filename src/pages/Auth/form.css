@@ -1,0 +1,33 @@
+.form-container {
+    margin: 15rem 0 0 0;
+}
+
+.form-section {
+    display: flex;
+    flex-direction: column;
+    height: 90vh;
+
+}
+.form {
+    margin:22.5rem 0 0 0;
+    text-align: center;
+}
+
+.custom-input {
+    outline: none;
+    background-color: var(--background-color);
+    color:var(--primary-text-color);
+    border:none;
+    border-bottom: 1px solid var(--primary-dark-color);
+    padding-bottom: 1rem;
+    border-radius: 1rem;
+}
+
+.form-btn{
+    background-color: var(--primary-light-color);
+    width:100%;
+    padding: 1rem;
+    border-radius: 1rem;
+    color:var(--primary-text-color);
+
+}

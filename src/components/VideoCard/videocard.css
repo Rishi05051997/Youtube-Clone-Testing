@@ -1,0 +1,12 @@
+.container-card {
+    background-color: var(--background-color-light) !important;
+    box-shadow: 4px 4px 8px -2px var(--primary-light-color) !important;
+}
+
+.container-card:hover{
+    transform: scale(1.05);
+   
+  /* transform: scale(1.3); */
+    box-shadow: 0 10px 20px rgba(0,0,0,.12), 0 4px 8px rgba(0,0,0,.06) !important;
+    /* z-index: 30; */
+}

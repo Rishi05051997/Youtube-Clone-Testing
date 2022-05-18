@@ -1,0 +1,18 @@
+/*************** External Imports ***************/
+@import url('https://fonts.googleapis.com/css2?family=Caveat&family=Nunito:wght@200;300;400;600;700;900&family=Poppins:wght@500&display=swap');
+
+
+:root {
+
+    --primary-dark-color: #fc8019;
+    --primary-light-color: #fc8019;
+    --secondary-color: #FFF45E;
+    --background-color:#000000;
+    --background-color-light:#1e1e1e;
+    --secondory-background-color:#4c3f2f;
+    --primary-text-color:#ffff;
+    --primary-text-color-contrast:#3b82f61a;
+    --secondory-text-color:#636369;
+    --primary-contrast-color:#615BF7;
+
+}

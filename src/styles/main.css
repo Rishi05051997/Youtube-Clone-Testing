@@ -1,0 +1,17 @@
+@import url("https://memorable-ui.netlify.app/styles/main.css");
+@import "./variable.css";
+@import "./utility.css";
+
+body::-webkit-scrollbar {
+    width: 16px;
+}
+ 
+body::-webkit-scrollbar-track {
+    background-color: var(--background-color);
+    border-radius: 4rem;
+}
+ 
+body::-webkit-scrollbar-thumb {
+    background-color: var(--primary-light-color);
+    border-radius: 4rem;
+} 
