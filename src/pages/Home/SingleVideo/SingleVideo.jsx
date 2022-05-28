@@ -21,7 +21,7 @@ export const SingleVideo = () => {
     useDocumentTitle(`CARS TUBE | ${title}`)
 
     const copyHandler = () => {
-        navigator.clipboard.writeText(`http://localhost:3000/single-video/${_id}`)
+        navigator.clipboard.writeText(`https://your-fav-cars-tube.netlify.app/single-video/${_id}`)
         setIsCopy(true)
     }
 
